@@ -1,0 +1,43 @@
+{
+    "bg": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.P_poxVPYk140tos_1KleyQHaFj%26pid%3DApi&f=1",
+    "title": "Quiz do Chevette",
+    "description": "Teste os seus conhecimentos sobre Chevette e vamos ver o quão chvetteiro você é!",
+    "questions": [
+      {
+        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
+        "title": "Como fazer um seletor por id via CSS?",
+        "description": "Essa é pra aquecer",
+        "answer": 2,
+        "alternatives": [
+          ".elemento",
+          "*elemento",
+          "#elemento",
+          "%elemento"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+        "title": "Como fazer um background gradiente com css?",
+        "description": "Faz tempo em haha",
+        "answer": 0,
+        "alternatives": [
+           "background: linear-gradient(#e66465, #9198e5);",
+           "background: gradient(#e66465, #9198e5);"
+        ]
+      }
+    ],
+    "external": [
+      ""
+    ],
+    "theme": {
+      "colors": {
+        "primary": "#d50000",
+        "secondary": "#212121",
+        "mainBg": "#171B35",
+        "contrastText": "#FFFFFF",
+        "wrong": "#f9e904",
+        "success": "#09f904"
+      },
+      "borderRadius": "4px"
+    }
+  }
